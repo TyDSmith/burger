@@ -5,3 +5,5 @@ Required Packages:
 * Node
 * Express
 * Handlebars (express-handlebars)
+* Body-parser
+* Method-override
